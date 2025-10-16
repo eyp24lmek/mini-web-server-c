@@ -20,6 +20,7 @@ It supports:
 
 ## 📁 Project Structure
 
+
 mini-web-server/
 ├── server.c 
 ├── Makefile 
@@ -31,3 +32,13 @@ mini-web-server/
 │ └── logo.png
 └── logs/ 
  └── server.log
+
+
+
+
+
+
+
+
+
+
